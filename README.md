@@ -1,2 +1,0 @@
-# scorekeeperpro
-projectapp
